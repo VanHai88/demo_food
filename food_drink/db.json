@@ -1,0 +1,492 @@
+{
+  "products": [
+    {
+      "id": 26,
+      "categoryId": 4,
+      "name": "Bánh thỏ con",
+      "price": 38000,
+      "img": "/images/products/diemtam/banhthocon.jpg",
+      "pieces": 1,
+      "details": " là loại trà sữa được làm từ trân châu với đường đen giúp thanh lọc cơ thể ",
+      "sale": 5,
+      "date_sale_finish": "10/6/2020"
+    },
+    {
+      "categoryId": 1,
+      "id": 1,
+      "name": "Trà sữa bumba",
+      "price": 32000,
+      "img": "/images/products/milktea/trasuabumba.jpg",
+      "pieces": 1,
+      "details": " là loại trà sữa được làm từ trân châu với đường đen giúp thanh lọc cơ thể ",
+      "sale": 5,
+      "date_sale_finish": "10/6/2020"
+    },
+    {
+      "id": 11,
+      "categoryId": 2,
+      "name": "Cà phê hoa anh đào",
+      "price": 42000,
+      "img": "/images/products/cafe/cafehoaanhdao.jpg",
+      "pieces": 1,
+      "details": " là loại trà sữa được làm từ trân châu với đường đen giúp thanh lọc cơ thể ",
+      "sale": 5,
+      "date_sale_finish": "10/6/2020"
+    },
+    {
+      "categoryId": 1,
+      "id": 2,
+      "name": "Trà sữa cafe",
+      "price": 32000,
+      "img": "/images/products/milktea/trasuacafe.jpg",
+      "pieces": 1,
+      "details": " là loại trà sữa được làm từ trân châu với đường đen giúp thanh lọc cơ thể ",
+      "sale": 5,
+      "date_sale_finish": "10/6/2020"
+    },
+    {
+      "id": 3,
+      "categoryId": 1,
+      "name": "Trà sữa matcha",
+      "price": 38000,
+      "img": "/images/products/milktea/trasuamatcha.jpg",
+      "pieces": 1,
+      "details": " là loại trà sữa được làm từ trân châu với đường đen giúp thanh lọc cơ thể ",
+      "sale": 5,
+      "date_sale_finish": "10/6/2020"
+    },
+    {
+      "id": 4,
+      "categoryId": 1,
+      "name": "Trà sữa socola",
+      "price": 38000,
+      "img": "/images/products/milktea/trasuasocola.jpg",
+      "pieces": 1,
+      "details": " là loại trà sữa được làm từ trân châu với đường đen giúp thanh lọc cơ thể ",
+      "sale": 5,
+      "date_sale_finish": "10/6/2020"
+    },
+    {
+      "id": 5,
+      "categoryId": 1,
+      "name": "Trà sữa khoai môn",
+      "price": 38000,
+      "img": "/images/products/milktea/trasuakhoaimon.jpg",
+      "pieces": 1,
+      "details": " là loại trà sữa được làm từ trân châu với đường đen giúp thanh lọc cơ thể ",
+      "sale": 5,
+      "date_sale_finish": "10/6/2020"
+    },
+    {
+      "id": 6,
+      "categoryId": 1,
+      "name": "Trà sữa nếp cẩm",
+      "price": 42000,
+      "img": "/images/products/milktea/truasuanepcam.jpg",
+      "pieces": 1,
+      "details": " là loại trà sữa được làm từ trân châu với đường đen giúp thanh lọc cơ thể ",
+      "sale": 5,
+      "date_sale_finish": "10/6/2020"
+    },
+    {
+      "id": 7,
+      "categoryId": 1,
+      "name": "Trà sữa caramel",
+      "price": 42000,
+      "img": "/images/products/milktea/trasuacaramel.jpg",
+      "pieces": 1,
+      "details": " là loại trà sữa được làm từ trân châu với đường đen giúp thanh lọc cơ thể ",
+      "sale": 5,
+      "date_sale_finish": "10/6/2020"
+    },
+    {
+      "id": 8,
+      "categoryId": 1,
+      "name": "Trà sữa caramel",
+      "price": 42000,
+      "img": "/images/products/milktea/trasuacaramel.jpg",
+      "pieces": 1,
+      "details": " là loại trà sữa được làm từ trân châu với đường đen giúp thanh lọc cơ thể ",
+      "sale": 5,
+      "date_sale_finish": "10/6/2020"
+    },
+    {
+      "categoryId": 2,
+      "id": 9,
+      "name": "Cà phê đen đá",
+      "price": 32000,
+      "img": "/images/products/cafe/cafedenda.jpg",
+      "pieces": 1,
+      "details": " là loại trà sữa được làm từ trân châu với đường đen giúp thanh lọc cơ thể ",
+      "sale": 5,
+      "date_sale_finish": "10/6/2020"
+    },
+    {
+      "id": 10,
+      "categoryId": 2,
+      "name": "Cà phê chim",
+      "price": 38000,
+      "img": "/images/products/cafe/cafechim.jpg",
+      "pieces": 1,
+      "details": " là loại trà sữa được làm từ trân châu với đường đen giúp thanh lọc cơ thể ",
+      "sale": 5,
+      "date_sale_finish": "10/6/2020"
+    },
+    {
+      "id": 12,
+      "categoryId": 2,
+      "name": "Cà phê gấu",
+      "price": 38000,
+      "img": "/images/products/cafe/cafegau.jpg",
+      "pieces": 1,
+      "details": " là loại trà sữa được làm từ trân châu với đường đen giúp thanh lọc cơ thể ",
+      "sale": 5,
+      "date_sale_finish": "10/6/2020"
+    },
+    {
+      "id": 13,
+      "categoryId": 2,
+      "name": "Cà phê sữa",
+      "price": 38000,
+      "img": "/images/products/cafe/cafesuada.jpg",
+      "pieces": 1,
+      "details": " là loại trà sữa được làm từ trân châu với đường đen giúp thanh lọc cơ thể ",
+      "sale": 5,
+      "date_sale_finish": "10/6/2020"
+    },
+    {
+      "categoryId": 2,
+      "id": 14,
+      "name": "Cà phê nhịp tim",
+      "price": 32000,
+      "img": "/images/products/cafe/cafenhiptim.jpg",
+      "pieces": 1,
+      "details": " là loại trà sữa được làm từ trân châu với đường đen giúp thanh lọc cơ thể ",
+      "sale": 5,
+      "date_sale_finish": "10/6/2020"
+    },
+    {
+      "id": 15,
+      "categoryId": 2,
+      "name": "Cà phê chim cánh cụt",
+      "price": 42000,
+      "img": "/images/products/cafe/cafechimcanhcut.jpg",
+      "pieces": 1,
+      "details": " là loại trà sữa được làm từ trân châu với đường đen giúp thanh lọc cơ thể ",
+      "sale": 5,
+      "date_sale_finish": "10/6/2020"
+    },
+    {
+      "id": 16,
+      "categoryId": 2,
+      "name": "Cà phê Hellokity",
+      "price": 42000,
+      "img": "/images/products/cafe/cafehelokity.jpg",
+      "pieces": 1,
+      "details": " là loại trà sữa được làm từ trân châu với đường đen giúp thanh lọc cơ thể ",
+      "sale": 5,
+      "date_sale_finish": "10/6/2020"
+    },
+    {
+      "categoryId": 3,
+      "id": 17,
+      "name": "Trà oolong bí đao",
+      "price": 31000,
+      "img": "/images/products/lemontea/traolongbidao.jpg",
+      "pieces": 1,
+      "details": " là loại trà sữa được làm từ trân châu với đường đen giúp thanh lọc cơ thể ",
+      "sale": 5,
+      "date_sale_finish": "10/6/2020"
+    },
+    {
+      "categoryId": 3,
+      "id": 18,
+      "name": "Trà thanh nhiệt dứa",
+      "price": 34000,
+      "img": "/images/products/lemontea/trathanhnhietdua.jpg",
+      "pieces": 1,
+      "details": " là loại trà sữa được làm từ trân châu với đường đen giúp thanh lọc cơ thể ",
+      "sale": 5,
+      "date_sale_finish": "10/6/2020"
+    },
+    {
+      "id": 19,
+      "categoryId": 3,
+      "name": "Trà ổi hồng",
+      "price": 32000,
+      "img": "/images/products/lemontea/traoihong.jpg",
+      "pieces": 1,
+      "details": " là loại trà sữa được làm từ trân châu với đường đen giúp thanh lọc cơ thể ",
+      "sale": 5,
+      "date_sale_finish": "10/6/2020"
+    },
+    {
+      "id": 20,
+      "categoryId": 3,
+      "name": "Trà chanh sả",
+      "price": 36000,
+      "img": "/images/products/lemontea/trachanhxa.jpg",
+      "pieces": 1,
+      "details": " là loại trà sữa được làm từ trân châu với đường đen giúp thanh lọc cơ thể ",
+      "sale": 5,
+      "date_sale_finish": "10/6/2020"
+    },
+    {
+      "id": 21,
+      "categoryId": 3,
+      "name": "Trà dâu",
+      "price": 38000,
+      "img": "/images/products/lemontea/tradau.jpg",
+      "pieces": 1,
+      "details": " là loại trà sữa được làm từ trân châu với đường đen giúp thanh lọc cơ thể ",
+      "sale": 5,
+      "date_sale_finish": "10/6/2020"
+    },
+    {
+      "id": 22,
+      "categoryId": 3,
+      "name": "Trà việt quất",
+      "price": 42000,
+      "img": "/images/products/lemontea/travietquat.jpg",
+      "pieces": 1,
+      "details": " là loại trà sữa được làm từ trân châu với đường đen giúp thanh lọc cơ thể ",
+      "sale": 5,
+      "date_sale_finish": "10/6/2020"
+    },
+    {
+      "id": 23,
+      "categoryId": 3,
+      "name": "Trà đào",
+      "price": 49000,
+      "img": "/images/products/lemontea/tradao.jpg",
+      "pieces": 1,
+      "details": " là loại trà sữa được làm từ trân châu với đường đen giúp thanh lọc cơ thể ",
+      "sale": 5,
+      "date_sale_finish": "10/6/2020"
+    },
+    {
+      "id": 24,
+      "categoryId": 3,
+      "name": "Trà vải",
+      "price": 39000,
+      "img": "/images/products/lemontea/travai.jpg",
+      "pieces": 1,
+      "details": " là loại trà sữa được làm từ trân châu với đường đen giúp thanh lọc cơ thể ",
+      "sale": 5,
+      "date_sale_finish": "10/6/2020"
+    },
+    {
+      "categoryId": 4,
+      "id": 25,
+      "name": "Bánh kẹp",
+      "price": 32000,
+      "img": "/images/products/diemtam/banhkep.jpg",
+      "pieces": 1,
+      "details": " là loại trà sữa được làm từ trân châu với đường đen giúp thanh lọc cơ thể ",
+      "sale": 5,
+      "date_sale_finish": "10/6/2020"
+    },
+    {
+      "id": 27,
+      "categoryId": 4,
+      "name": "Bánh kẹp dâu",
+      "price": 38000,
+      "img": "/images/products/diemtam/banhkepdau.jpg",
+      "pieces": 1,
+      "details": " là loại trà sữa được làm từ trân châu với đường đen giúp thanh lọc cơ thể ",
+      "sale": 5,
+      "date_sale_finish": "10/6/2020"
+    },
+    {
+      "id": 28,
+      "categoryId": 4,
+      "name": "Bánh vui vẻ",
+      "price": 38000,
+      "img": "/images/products/diemtam/banhvuive.jpg",
+      "pieces": 1,
+      "details": " là loại trà sữa được làm từ trân châu với đường đen giúp thanh lọc cơ thể ",
+      "sale": 5,
+      "date_sale_finish": "10/6/2020"
+    },
+    {
+      "categoryId": 4,
+      "id": 29,
+      "name": "Bánh dâu tây",
+      "price": 32000,
+      "img": "/images/products/diemtam/banhdautay.jpg",
+      "pieces": 1,
+      "details": " là loại trà sữa được làm từ trân châu với đường đen giúp thanh lọc cơ thể ",
+      "sale": 5,
+      "date_sale_finish": "10/6/2020"
+    },
+    {
+      "id": 30,
+      "categoryId": 4,
+      "name": "Bánh gấu",
+      "price": 42000,
+      "img": "/images/products/diemtam/banhgau.jpg",
+      "pieces": 1,
+      "details": " là loại trà sữa được làm từ trân châu với đường đen giúp thanh lọc cơ thể ",
+      "sale": 5,
+      "date_sale_finish": "10/6/2020"
+    },
+    {
+      "id": 31,
+      "categoryId": 4,
+      "name": "Trà đào",
+      "price": 42000,
+      "img": "/images/products/diemtam/banhdethuong.jpg",
+      "pieces": 1,
+      "details": " là loại trà sữa được làm từ trân châu với đường đen giúp thanh lọc cơ thể ",
+      "sale": 5,
+      "date_sale_finish": "10/6/2020"
+    },
+    {
+      "id": 32,
+      "categoryId": 4,
+      "name": "Bánh chocola",
+      "price": 42000,
+      "img": "/images/products/diemtam/banhsocola.jpg",
+      "pieces": 1,
+      "details": " là loại trà sữa được làm từ trân châu với đường đen giúp thanh lọc cơ thể ",
+      "sale": 5,
+      "date_sale_finish": "10/6/2020"
+    }
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "name": "Trà Sữa"
+    },
+    {
+      "id": 2,
+      "name": "cafe"
+    },
+    {
+      "id": 3,
+      "name": "Trà thanh nhiệt"
+    },
+    {
+      "id": 4,
+      "name": "Điểm Tâm"
+    }
+  ],
+  "users": [
+    {
+      "id": 1,
+      "fullName": "Tran Duy Tien",
+      "email": "money@gmail.com",
+      "passWord": "123456",
+      "address": "Quan Nam",
+      "phone": "0546594555"
+    },
+    {
+      "id": 2,
+      "fullName": "Tran Duy Ku",
+      "email": "money@gmail.com",
+      "passWord": "123456",
+      "address": "Quan Nam",
+      "phone": "0546594555"
+    },
+    {
+      "email": "zzvanhai81@gmail.com.dd",
+      "lassName": "Nguyễn văn",
+      "firsName": "Hải",
+      "address": "Quảng nam",
+      "password": "1234"
+    },
+    {
+      "email": "zzvanhai81@gmail.com.vn",
+      "lassName": "Nguyễn văn",
+      "firsName": "Hải",
+      "address": "Quảng nam",
+      "password": "1234"
+    },
+    {
+      "email": "zzvanhai81@gmail.com.dddd",
+      "lassName": "Nguyễn văn",
+      "firsName": "Hải",
+      "address": "Quảng nam",
+      "password": "1234"
+    },
+    {
+      "email": "zzvanhai81@gmail.com",
+      "lassName": "Nguyễn văn",
+      "firsName": "Hải",
+      "address": "Quảng nam",
+      "password": "11"
+    },
+    {
+      "email": "zzvanhai81@gmail.com.vn.dsf",
+      "lassName": "Nguyễn văn",
+      "firsName": "Hải",
+      "address": "Quảng nam",
+      "password": "11"
+    },
+    {
+      "email": "zzvanhai81@gmail.com.vn.dsfsdf",
+      "lassName": "Nguyễn văn",
+      "firsName": "Hải",
+      "address": "Quảng nam",
+      "password": "11"
+    }
+  ],
+  "comments": [
+    {
+      "idUser": 2,
+      "id": 1,
+      "content": "Ngon quá Tiền ui kk!!",
+      "star": 4,
+      "idProduct": 1,
+      "time": "20/06/1997"
+    },
+    {
+      "idUser": 1,
+      "id": 2,
+      "content": "a!!",
+      "star": 4,
+      "idProduct": 1,
+      "time": "20/06/1997"
+    },
+    {
+      "idUser": 2,
+      "id": 3,
+      "content": "b!!",
+      "star": 4,
+      "idProduct": 1,
+      "time": "20/06/1997"
+    },
+    {
+      "idUser": 1,
+      "id": 4,
+      "content": "c!!",
+      "star": 4,
+      "idProduct": 1,
+      "time": "20/06/1997"
+    }
+  ],
+  "Order": [
+    {
+      "id": 1,
+      "id_address_ship": 1,
+      "status": 1,
+      "totalPrice": 20000
+    }
+  ],
+  "orderDEtails": [
+    {
+      "id": 1,
+      "idPRo": 1,
+      "idorder": 1,
+      "amount": 2
+    }
+  ],
+  "addressShipping": [
+    {
+      "id": 1,
+      "idUser": 1,
+      "address_ship": "bquang nam ",
+      "phone": "0546594555"
+    }
+  ]
+}

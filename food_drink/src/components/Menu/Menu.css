@@ -1,0 +1,85 @@
+/* ----------------- MENU --------------------- */
+#menu{
+    background-color: #fff;
+}
+.menu_block{
+    display: flex;
+    justify-content: space-between;
+    font-family: 'Quicksand', sans-serif;
+    font-size: 18px;
+    font-weight: 500;
+}
+
+.sticky{
+    position: fixed;
+    top: 0;
+    left: 0;
+    z-index: 100;
+    width: 100%;
+    transition: all .5s;
+    background-color: #fff;
+    box-shadow: 0px 0px 5px 1px #00000052;
+}
+
+
+.menu i, .glyphicon-user{
+    color: #e1b15c
+}
+
+/* ----------------- MENU - LOGO--------------------- */
+
+.menu-logo{
+    width: 20%;
+    height: 90px;
+    transition: all .5s;
+    padding: 18px 0;
+}
+
+.sticky .menu-logo{
+    height: 70px;
+}
+
+.menu-logo img{
+    height: 100%;
+    object-fit: cover;
+    transition: all .5s;
+}
+
+/* ----------------- MENU - NAV--------------------- */
+
+.menu-nav{
+    width: 70%;
+    margin: auto 0;
+}
+
+.menu-nav .navbar-default{
+    background-color: #fff;
+    border-color: #ffff;
+}
+
+.menu-nav .navbar{
+    margin-bottom: 0;
+}
+
+.menu-nav .active a{
+    background-color: #fff !important;
+    color: #c58e2b !important;
+    font-weight: 600 !important;
+}
+
+.navbar-default .navbar-nav>li>a{
+    color: #000;
+}
+
+/* ----------------- MENU - LOGIN ------------------- */
+
+.modal-backdrop{
+    z-index: 2;
+}
+
+/* ----------------- MENU - CART--------------------- */
+
+.menu-cart{
+    width: 10%;
+    margin: auto 0;
+}

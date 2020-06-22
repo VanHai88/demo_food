@@ -1,0 +1,17 @@
+.slick-slider{
+    margin: 40px;
+  }
+  
+  .slick-arrow {
+    background-color: #eae8e8;
+    height: 100%;
+    width: 35px;
+    border-radius: 10px;
+    z-index: 2;
+    transition: all .5s;
+  }
+  .slick-arrow:hover,
+  .slick-arrow:active,
+  .slick-arrow:focus {
+    background-color: #3c3a3a !important;
+  }
